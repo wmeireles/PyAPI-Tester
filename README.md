@@ -3,7 +3,8 @@
 **PyAPI Tester** é uma ferramenta desktop escrita em Python para realizar testes de APIs REST de forma simples, intuitiva e com interface moderna.
 Ideal para desenvolvedores, testadores e profissionais de T.I que precisam enviar requisições HTTP com facilidade.
 
-![Banner ou captura de tela aqui]
+
+![image](https://github.com/user-attachments/assets/88bf3ce0-4e76-4e70-a82a-576078584328)
 
 ---
 
