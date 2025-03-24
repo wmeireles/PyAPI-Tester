@@ -89,3 +89,7 @@ Desenvolvido por **Willian Meireles**
 > Este projeto está em evolução constante ✨
 > Contribuições e ideias são muito bem-vindas!
 
+## 📄 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
